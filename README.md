@@ -1,2 +1,2 @@
 # Krish_REP
-First Repo. 
+This is my First Repo. 
